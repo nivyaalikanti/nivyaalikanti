@@ -1,4 +1,3 @@
-# 💫 About Me:
 Computer Science Undergraduate with interests in Software Engineering, Machine Learning, Generative AI, Cloud Computing, and Data Structures & Algorithms.<br><br>I enjoy building practical applications, exploring modern AI systems, and solving algorithmic problems. My learning journey spans full-stack development, machine learning, retrieval-augmented generation systems, and cloud technologies.<br><br>Currently focused on strengthening software engineering fundamentals while exploring the intersection of AI and real-world applications.
 
 
