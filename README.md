@@ -23,4 +23,10 @@ Computer Science Undergraduate with interests in Software Engineering, Machine L
 </a>
 </p>
 
+<p align="left">
+<img src="https://img.shields.io/badge/LeetCode-50_Days_Badge-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/LeetCode-100_Days_Badge-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/LeetCode-Contest_Participant-blue?style=flat-square"/>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
