@@ -104,7 +104,7 @@ Strong interest in problem solving and algorithmic thinking with 500+ solved pro
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nivyaalikanti&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivyaalikanti&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
