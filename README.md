@@ -23,12 +23,4 @@ Computer Science Undergraduate with interests in Software Engineering, Machine L
 </a>
 </p>
 
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=nivyaalikanti&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nivyaalikanti&theme=radical&hide_border=false)<br/>
-
----
-[![](https://komarev.com/ghpvc/?username=nivyaalikanti&icon=8&color=7)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
